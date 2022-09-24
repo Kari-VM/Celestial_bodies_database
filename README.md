@@ -22,7 +22,7 @@ Through this project I learnt how to do the following:
 
 - CREATE A DATABASE and connect to it
 
-- CREATE A TABLE with different datatypes such as INT, VARCHAR, TEXT, NUMERIC and BOOLEAN 
+- CREATE A TABLE and ADD COLUMNS with different datatypes such as INT, VARCHAR, TEXT, NUMERIC and BOOLEAN 
 
 - Set NOT NULL and UNIQUE constraints
 
