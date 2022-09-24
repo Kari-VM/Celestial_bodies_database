@@ -20,20 +20,20 @@ The 'constellations' table has the names of 6 constellations having a 'one to on
 
 Through this project I learnt how to do the following:
 
-CREATE A DATABASE and connect to it
+- CREATE A DATABASE and connect to it
 
-CREATE A TABLE with different datatypes such as INT, VARCHAR, TEXT, NUMERIC and BOOLEAN 
+- CREATE A TABLE with different datatypes such as INT, VARCHAR, TEXT, NUMERIC and BOOLEAN 
 
-Set NOT NULL and UNIQUE constraints
+- Set NOT NULL and UNIQUE constraints
 
-Set a SERIAL PRIMARY KEY and FOREIGN KEY
+- Set a SERIAL PRIMARY KEY and FOREIGN KEY
 
-Reference two tables using a FOREIGN KEY
+- Reference two tables using a FOREIGN KEY
 
-Insert VALUES into the columns of the table
+- Insert VALUES into the columns of the table
 
-UPDATE table values using the WHERE condition
+- UPDATE table values using the WHERE condition
 
-SELECT ALL COLUMNS from a table by setting a column in order
+- SELECT ALL COLUMNS from a table by setting a column in order
 
-Get all data from tables joined by a FOREIGN KEY using the SELECT ALL COLUMNS FROM and FULL JOIN command.
+- Get all data from tables joined by a FOREIGN KEY using the SELECT ALL COLUMNS FROM and FULL JOIN command.
