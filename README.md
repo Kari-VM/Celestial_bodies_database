@@ -1,10 +1,10 @@
-# celestial-database-sql
+# Celestial-Database-SQL
 PostgreSQL Database of Celestial Bodies.
 
-I created this database as a project that had to be completed for freeCodeCamp's Relational Database Certification.
-This database contains 5 tables named galaxy, star, planet, moon and constellations and also demonstrates the relationship between these tables.
+This database was created as part of freeCodeCamp's Relational Database Certification.
+It contains 5 tables named galaxy, star, planet, moon and constellations and also demonstrates the relationship between these tables.
 
-DESCRIPTION:
+### Description:
 
 The 'galaxy' table has data containing the names of 6 galaxies, their types with a brief description and size in million light years.
 
@@ -16,9 +16,9 @@ The 'moon' table contains the names of 20 Jupiter moons, their discoverers and t
 
 The 'constellations' table has the names of 6 constellations having a 'one to one' relationship with each of the galaxies from the galaxy table.
 
-LEARNING EXPERIENCE:
+### Learning Experience:
 
-Through this project I learnt how to do the following;
+Through this project I learnt how to do the following:
 
 CREATE A DATABASE and connect to it
 
