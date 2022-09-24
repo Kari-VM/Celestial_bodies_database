@@ -8,9 +8,9 @@ It contains 5 tables named galaxy, star, planet, moon and constellations and als
 
 The 'galaxy' table has data containing the names of 6 galaxies, their types with a brief description and size in million light years.
 
-The 'star' table has the names of 6 stars in the Milky Way galaxy, their age and distance from earth in light years and also establishes a 'many to one' relationship between each of the stars and the Milky Way galaxy from the galaxy table.
+The 'star' table has the names of 6 stars in the Milky Way galaxy, their age in million years, distance from earth in light years and also establishes a 'many to one' relationship between each of the stars and the Milky Way galaxy from the galaxy table.
 
-The 'planet' table contains the names of 13 planets along with their age in billions of light years, whether they have life or not, whether they have rings or not, planet types and number of moons.  Also, there is a 'many to one' relationship between each of these planets and the Sun from the star table.
+The 'planet' table contains the names of 13 planets along with their age in billion years, whether they have life or not, whether they have rings or not, planet types and number of moons.  Also, there is a 'many to one' relationship between each of these planets and the Sun from the star table.
 
 The 'moon' table contains the names of 20 Jupiter moons, their discoverers and the years they were discovered in. Each of these moons has a 'many to one' relationship with the planet Jupiter from planet table.
 
