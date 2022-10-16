@@ -28,7 +28,7 @@ Through this project I learnt how to do the following:
 
 - Set a SERIAL PRIMARY KEY and FOREIGN KEY
 
-- Reference two tables using a FOREIGN KEY
+- Reference tables using a FOREIGN KEY
 
 - Insert VALUES into the columns of the table
 
