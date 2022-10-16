@@ -1,4 +1,4 @@
-# Celestial-Database-SQL
+# Celestial bodies_databse
 PostgreSQL Database of Celestial Bodies.
 
 This database was created as part of freeCodeCamp's Relational Database Certification.
